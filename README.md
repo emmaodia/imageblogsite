@@ -9,4 +9,4 @@ Future "likely" features
 1. User Authentications
 2. Ability to like a photo
 3. Ability to Categorize photo
-4. Abiity to search for photos with particular ttles
+4. Abiity to search for photos with particular titles using the search kick gem
